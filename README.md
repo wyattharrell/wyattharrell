@@ -1,4 +1,3 @@
-### Hi, I'm Wyatt 👋
 > I am an iOS Developer with a B.A. in Computer Science from Florida State University.  
 
 #### Connect with me
